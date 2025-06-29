@@ -45,5 +45,5 @@
 - 🌐 Portafolio: Work in progress...
 ---
 
-> _"El código es como el humor. Cuando tienes que explicarlo, es malo."_ – Cory House
+> _"El código es como el humor. Cuando tienes que explicarlo, es malo."_
 
