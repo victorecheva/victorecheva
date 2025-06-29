@@ -41,7 +41,7 @@
 ## 📫 Contacto
 
 - 📧 Email: victorechevarria03@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/tuusuario](https://linkedin.com/in/victor-echevarria-garcia9090)  
+- 💼 LinkedIn: [linkedin.com/in/victor-echevarria-garcia9090](https://linkedin.com/in/victor-echevarria-garcia9090)  
 - 🌐 Portafolio: Work in progress...
 ---
 
