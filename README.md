@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola, soy [Víctor Echevarría]! </h1>
+<h1 align="center">¡Hola, soy Víctor Echevarría! </h1>
 
 <p align="center">
   👨‍💻 Desarrollador Web Junior | Apasionado por la tecnología y el código limpio<br>
