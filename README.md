@@ -43,7 +43,7 @@
 
 - 📧 Email: victorechevarria03@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/victor-echevarria-garcia9090](https://linkedin.com/in/victor-echevarria-garcia9090)  
-- 🌐 Portfolio: [Work in progress...](https://victorecheva.github.io/portfolio/)
+- 🌐 Portfolio: [Link](https://victorecheva.github.io/portfolio/)
 ---
 
 > _"El código es como el humor. Cuando tienes que explicarlo, es malo."_
